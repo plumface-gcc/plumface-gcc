@@ -1,5 +1,5 @@
 <br />
-<img src="https://i.imgur.com/X8BZybr.png" align="left" width="300" alt="time007"/>
+<img src="https://user-images.githubusercontent.com/60156453/149975292-55311db1-c215-4086-b444-390b519a94e2.png" align="left" width="300" alt="time007"/>
 
 # Hello, Im Time007 🌱
 
