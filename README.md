@@ -1,16 +1,14 @@
-### Hi there 👋
+<br />
+<img src="https://i.imgur.com/X8BZybr.png" align="left" width="300" alt="time007"/>
 
-<!--
-**time007gc/time007gc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hello, Im Time007 🌱
 
-Here are some ideas to get you started:
+- Script kiddie looking to not be a leecher
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python for web scraping, C# for everything else
+
+- School of Software design & Data Science
+
+- Ex-semi-pro league player 
+
+- SSBM enjoyer
