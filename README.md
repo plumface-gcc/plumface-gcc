@@ -1,7 +1,10 @@
 <br />
-<img src="https://user-images.githubusercontent.com/60156453/149975292-55311db1-c215-4086-b444-390b519a94e2.png" align="left" width="115" alt="time007"/>
+<img src="https://user-images.githubusercontent.com/60156453/149975292-55311db1-c215-4086-b444-390b519a94e2.png" align="left" width="150" alt="time007"/>
 
 # Hello, Im Time007 🌱
+
+<br />
+<img src="https://user-images.githubusercontent.com/60156453/149975535-6f8fdbff-1ccd-4390-8d8b-34e5677a4371.png" align="left" width="150" alt="time0071"/>
 
 - Script kiddie looking to not be a leecher
 
