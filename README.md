@@ -11,7 +11,7 @@
 - Python for web scraping, C# for everything else
 
 <br />
-<img src="https://user-images.githubusercontent.com/60156453/149976487-26a63811-58bc-4119-9190-ec247e517541.png" align="left" width="150" alt="sheik"/>
+<img src="https://user-images.githubusercontent.com/60156453/149976487-26a63811-58bc-4119-9190-ec247e517541.png" align="left" width="100" alt="sheik"/>
 
 - School of Software Design & Data Science
 
