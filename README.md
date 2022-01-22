@@ -11,7 +11,7 @@
 
 - School of Software Design & Data Science
 
-- Ex semi-pro **[league player]**
+- Ex semi-pro league player
 <br />
 <div id="content">
   
