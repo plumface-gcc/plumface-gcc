@@ -11,9 +11,7 @@
 
 - School of Software Design & Data Science
 
-- Ex semi-pro **[league player](https://na.op.gg/summoner/userName=redrobin)**
-
-- Super smash bros melee enjoyer
+- Ex semi-pro **[league player]**
 <br />
 <div id="content">
   
