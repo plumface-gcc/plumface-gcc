@@ -3,7 +3,7 @@
 
 # Hello, Im Time007 🌱
 
-- Script kiddie looking to not be a leecher
+- Passionate coder looking to not be a leecher
 
 - Python for web scraping, C# for everything else
 
