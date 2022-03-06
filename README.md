@@ -3,7 +3,7 @@
 
 # Hello, Im Time007 🌱
 
-- Passionate coder looking to not be a leecher
+- linux frogs BTFO
 
 - Python for web scraping, C# for everything else
 
