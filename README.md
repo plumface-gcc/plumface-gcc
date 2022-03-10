@@ -3,7 +3,7 @@
 
 # Hello, Im Time007 🌱
 
-- linux frogs BTFO
+- Sheik only
 
 - Python for web scraping, C# for everything else
 
