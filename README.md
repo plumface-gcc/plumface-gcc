@@ -10,6 +10,8 @@
 
 - School of Software Design & Data Science
 
+- SSBM Enthusiast, catch my locals I host here: https://start.gg/SMASH-AT-GEORGIAN-REBORN
+
 - Ex semi-pro league player
 
 - Reach me at time007gc@gmail.com
