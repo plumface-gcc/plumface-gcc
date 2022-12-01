@@ -1,6 +1,6 @@
 <img src="https://user-images.githubusercontent.com/60156453/149975292-55311db1-c215-4086-b444-390b519a94e2.png" align="left" width="200" alt="Wei-F'rar"/>
 
-# Hello, Im Time007 🌱
+# Hello, Im Time007 🚥
 
 - Currently learning **C/C++**
 
@@ -13,8 +13,6 @@
 - SSBM Enthusiast, catch my locals I host here: https://start.gg/SMASH-AT-GEORGIAN-REBORN
 
 - Ex semi-pro league player
-
-- Reach me at time007gc@gmail.com
 
 <br />
 
