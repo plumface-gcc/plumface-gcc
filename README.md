@@ -12,7 +12,7 @@
 
 - SSBM Enthusiast
 
-- I mix dnb sometimes
+- I mix n mash dnb occasionally
 
 <br />
 
