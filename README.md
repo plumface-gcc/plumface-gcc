@@ -10,9 +10,9 @@
 
 - School of Software Design & Data Science
 
-- SSBM Enthusiast, catch my locals I host here: https://start.gg/SMASH-AT-GEORGIAN-REBORN
+- SSBM Enthusiast
 
-- Ex semi-pro league player
+- I mix dnb sometimes
 
 <br />
 
