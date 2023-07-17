@@ -1,10 +1,10 @@
 <img src="https://user-images.githubusercontent.com/60156453/149975292-55311db1-c215-4086-b444-390b519a94e2.png" align="left" width="200" alt="Wei-F'rar"/>
 
-# hai i code sometimes 
+# i code sometimes 
 
-- Currently learning C++
+- Seneca Alumni
 
-- Python for web scraping, C# for everything else
+- Python for web stuff, C# for everything else
 
 <img src="https://user-images.githubusercontent.com/60156453/149975535-6f8fdbff-1ccd-4390-8d8b-34e5677a4371.png" align="left" width="200" alt="audelinea"/>
 
